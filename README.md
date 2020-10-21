@@ -39,15 +39,15 @@
 
 - 📖 **Universidade Anhembi Morumbi**\
 📆 2019 – 2021\
-📍 **Análise e Desenvolvimento de Sistemas** - São José dos Campos, Brazil
+📍 **Análise e Desenvolvimento de Sistemas** - São José dos Campos, Brazil\
 
 
 ## Experience
 
 
 - 👨‍💻 **Front-end Developer**\
-📆 Dez de 2019 - Moment\ 11 months
-📍 **SoftWillians IT Soluctions** - São José Dos Campos - SP, Brazil
+📆 Dez de 2019 - Moment 11 months \
+📍 **SoftWillians IT Soluctions** - São José Dos Campos - SP, Brazil\
 
 
 - 👨‍💻 **Desenvolvedor Web**\
@@ -56,14 +56,14 @@
 
 
 - 👨‍💻 **Designer Web**\
-📆 Ago de 2018 - Jul de 2019 - 1 year
-📍 **ComuniQ agência de Propagandas** - São José Dos Campos - SP, Brazil
+📆 Ago de 2018 - Jul de 2019 - 1 year\
+📍 **ComuniQ agência de Propagandas** - São José Dos Campos - SP, Brazil\
 
 
 
 - 👨‍💻 **web Design**\
-📆 Jan de 2018 - Jul de 2018 - 7 months
-📍 **Alliance - Investimentos e Negócios Imobiliários** - São José Dos Campos - SP, Brazil
+📆 Jan de 2018 - Jul de 2018 - 7 months\
+📍 **Alliance - Investimentos e Negócios Imobiliários** - São José Dos Campos - SP, Brazil\
 
 </details>
 
