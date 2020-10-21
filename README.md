@@ -21,14 +21,10 @@
   📫 How to reach me: <a href='mailto:caio_fbo@hotmail.com'>caio_fbo@hotmail.com</a>
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Front-end developer
+- 🌱 I’m currently learning ... React js
+- 💬 Ask me about ... Front-end
+- ⚡ Fun fact: ... I don't like chocolate
 
 
 <details>
@@ -47,12 +43,12 @@
 
 - 👨‍💻 **Front-end Developer**\
 📆 Dez de 2019 - Moment 11 months \
-📍 **SoftWillians IT Soluctions** - São José Dos Campos - SP, Brazil
+📍 **SoftWillians IT Solutions** - São José Dos Campos - SP, Brazil
 
 
 - 👨‍💻 **Desenvolvedor Web**\
 📆  Jul de 2019 - Dez de 2019 - 6 months
-📍 **Infinitus Solutions** - São José Dos Campos - SP, Brazil
+📍 **CoyÔ** - São José Dos Campos - SP, Brazil
 
 
 - 👨‍💻 **Designer Web**\
