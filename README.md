@@ -12,7 +12,7 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/caio-fabio-duarte-ferreira/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/caio-fabio-duarte-ferreira/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -28,9 +28,10 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Universidade Anhembi Morumbi**\
+📆 2019 – 2021\
+📍 **Análise e Desenvolvimento de Sistemas** - São José dos Campos, Brazil
+
 
 ## Experience
 
