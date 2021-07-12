@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working on ... Front-end developer
-- 🌱 I’m currently learning ... Vue.js
+- 🌱 I’m currently learning ... Front-end
 - 💬 Ask me about ... Front-end
 - ⚡ Fun fact: ... I don't like chocolate
 
