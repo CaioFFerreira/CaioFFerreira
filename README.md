@@ -39,26 +39,35 @@
 
 
 ## Experience
+  
+  - 👨‍💻 **Front-end Developer**\
+📆 April de 2021 - Moment 5 months \
+📍 **Instruct Solução em Tecnologia** - Brazil
 
 
 - 👨‍💻 **Front-end Developer**\
-📆 Dez de 2019 - Moment 11 months \
+📆 Nov de 2020 - Jan de 2021 - 3 months \
+📍 **UDS Tecnologia** - Maringá, Paraná - Brazil
+
+
+- 👨‍💻 **Front-end Developer**\
+📆 Dez de 2019 - Nov de 2020 - 1 year \
 📍 **SoftWillians IT Solutions** - São José Dos Campos - SP, Brazil
 
 
 - 👨‍💻 **Desenvolvedor Web**\
-📆  Jul de 2019 - Dez de 2019 - 6 months
+📆  Jul de 2019 - Dez de 2019 - 6 months \
 📍 **CoyÔ** - São José Dos Campos - SP, Brazil
 
 
 - 👨‍💻 **Designer Web**\
-📆 Ago de 2018 - Jul de 2019 - 1 year\
+📆 Ago de 2018 - Jul de 2019 - 1 year \
 📍 **ComuniQ agência de Propagandas** - São José Dos Campos - SP, Brazil
 
 
 
 - 👨‍💻 **web Design**\
-📆 Jan de 2018 - Jul de 2018 - 7 months\
+📆 Jan de 2018 - Jul de 2018 - 7 months \
 📍 **Alliance - Investimentos e Negócios Imobiliários** - São José Dos Campos - SP, Brazil
 
 </details>
