@@ -66,7 +66,7 @@
 
 
 
-- 👨‍💻 **web Design**\
+- 👨‍💻 **Web Design**\
 📆 Jan de 2018 - Jul de 2018 - 7 months \
 📍 **Alliance - Investimentos e Negócios Imobiliários** - São José Dos Campos - SP, Brazil
 
