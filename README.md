@@ -8,8 +8,6 @@
   Front-end developer from São Paulo, Brazil.
 </p>
 
- ![Snake animation](https://github.com/CaioFFerreira/CaioFFerreira/blob/output/github-contribution-grid-snake.svg)
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/caio-fabio-duarte-ferreira/" target="_blank">
